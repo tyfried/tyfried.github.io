@@ -88,7 +88,7 @@ author:
   googlescholar    : 
   email            :
   researchgate     : 
-  uri              : "sunesiary.org"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,10 +104,11 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/9343207/ender
+  stackoverflow    : "9343207/ender"
   steam            :
+  sunesiary        : sunesiary.org
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
