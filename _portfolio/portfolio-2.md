@@ -1,6 +1,6 @@
 ---
 title: "FLG Math Tutoring"
-excerpt: "Math tutoring business in Flagstaff, AZ <br/><img src='/images/flgmathtutor.png'>"
+excerpt: "Math tutoring business in Flagstaff, AZ"
 collection: portfolio
 ---
 
