@@ -1,6 +1,6 @@
 ---
 title: "FLG Math Tutoring"
-excerpt: "Math tutoring business in Flagstaff, AZ"
+excerpt: "Math tutoring business in Flagstaff, AZ."
 collection: portfolio
 permalink: /portfolio/tutoring
 ---

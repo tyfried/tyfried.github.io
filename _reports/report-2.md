@@ -1,6 +1,6 @@
 ---
 title: "Towards a Szego Limit Theorem for Berezin-Toeplitz Operators with Singular Symbols"
-excerpt: "A report submitted as part of an REU in Summer 2012 at the University of Michigan's Department of Mathematics"
+excerpt: "A report submitted as part of an REU in Summer 2012 at the University of Michigan's Department of Mathematics."
 collection: reports
 permalink: /reports/szego
 ---

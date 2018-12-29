@@ -1,6 +1,6 @@
 ---
 title: "Sunesiary"
-excerpt: "A prototype for aggregating and refining contextual discourse<br/><img src='/images/sunesiary.png'>"
+excerpt: "A prototype for aggregating and refining contextual discourse.<br/><img src='/images/sunesiary.png'>"
 collection: portfolio
 permalink: /portfolio/sunesiary
 ---
