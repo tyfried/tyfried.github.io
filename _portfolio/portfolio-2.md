@@ -4,4 +4,4 @@ excerpt: "Math tutoring business in Flagstaff, AZ <br/><img src='/images/flgmath
 collection: portfolio
 ---
 
-I started a math tutoring business in Flagstaff, AZ.  Visit [www.flgmathtutor.net](www.flgmathtutor.net) for more info.
+I started a math tutoring business in Flagstaff, AZ.  Visit [www.flgmathtutor.net](http://www.flgmathtutor.net) for more info.
