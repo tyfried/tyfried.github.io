@@ -5,4 +5,6 @@ collection: reports
 permalink: /reports/bounds
 ---
 
-Coding theory was invented to facilitate reliable transition of information over noisy networks.  One challenge in this field is determining the maximum number of codewords in a given code; this number is known as a _bound_.  For MATH 567, Introduction to Coding Theory, I completed a report that explores notable bounds as well as a special class of codes that meet the Gilbert bound.  You can view the report [here](http://tyfried.github.io/files/bounds.pdf).
+[Report](http://tyfried.github.io/files/bounds.pdf)
+
+Coding theory was invented to facilitate reliable transition of information over noisy networks.  One challenge in this field is determining the maximum number of codewords in a given code; this number is known as a _bound_.  For MATH 567, Introduction to Coding Theory, I completed a report that explores notable bounds as well as a special class of codes that meet the Gilbert bound.
