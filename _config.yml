@@ -188,9 +188,9 @@ collections:
   reports:
     output: true
     permalink: /:collection/:path/
-  contact:
-    output: true
-    permalink: /:collection/:path/
+  # contact:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 
