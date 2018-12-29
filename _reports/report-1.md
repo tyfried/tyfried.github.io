@@ -1,6 +1,6 @@
 ---
 title: "Exploring Bounds and Lexicodes"
-excerpt: "A report submitted as part of MATH 567, Introduction to Coding Theory in Winter 2015 at the University of Michigan"
+excerpt: "A report submitted as part of MATH 567, Introduction to Coding Theory, in Winter 2015 at the University of Michigan"
 collection: reports
 permalink: /reports/szego
 ---
