@@ -85,10 +85,10 @@ author:
   bio              : "Web developer, math teacher, philosophizer, prospective PhD student"
   location         : "Flagstaff, AZ"
   employer         :
-  googlescholar    : 
+  googlescholar    :
   email            :
-  researchgate     : 
-  uri              : 
+  researchgate     :
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,14 +101,14 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : "9343207/ender"
   steam            :
   sunesiary        : sunesiary.org
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -183,6 +183,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  reports:
     output: true
     permalink: /:collection/:path/
 
