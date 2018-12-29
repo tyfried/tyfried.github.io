@@ -7,4 +7,4 @@ permalink: /reports/szego
 
 During the summer of 2012 I studied the spectrum of self-adjoint Toeplitz matrices at the University of Michigan's Department of Mathematics under the direction of [Alejandro Uribe](http://www.math.lsa.umich.edu/~uribe/).  I proved the Szego Limit Theorem for a very specific type of Berezin-Toeplitz operator, and made a conjecture for more general symbols.
 
-[Report](http://tyfried.github.io/files/szego.pdf)
+[\[Report\]](http://tyfried.github.io/files/szego.pdf)
