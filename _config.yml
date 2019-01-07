@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tyler Friedman"
   avatar           : "profile.jpeg"
-  bio              : "Web developer, math teacher, entrepreneur, prospective PhD student<br/><br/> \"Learning does not make one learned: there are those who have knowledge and those who have understanding. The first requires memory, the second philosophy.\" - The Count of Monte Cristo"
+  bio              : "Web developer, math teacher, entrepreneur, prospective PhD student<br/><br/> \"Learning does not make one learned: there are those who have knowledge and those who have understanding. The first requires memory, the second philosophy.\"<br/>-The Count of Monte Cristo"
   location         : "Flagstaff, AZ"
   employer         :
   googlescholar    :
