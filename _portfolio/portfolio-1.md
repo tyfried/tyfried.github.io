@@ -11,7 +11,7 @@ Sunesiary adapts a wiki towards a novel model for aggregating and refining conte
 
 ## Motivation
 The state of public discourse is unhealthy at best.  Some examples:
-* The journalism industry is [under](https://issues.org/journalism-under-attack/) [siege](https://www.nytimes.com/2018/10/11/world/americas/journalists-killed.html).
+* Journalism is under siege, both [figuratively](https://issues.org/journalism-under-attack/) and [literally](https://www.nytimes.com/2018/10/11/world/americas/journalists-killed.html).
 * A [recent analysis](https://www.nature.com/articles/d41586-018-02934-x) of how true and false news spreads on Twitter found that not only did falsehoods spread more widely and at a faster rate than the truth, but that it was humans, not robots, who were more likely to spread it.
 * A nontrivial percentage of peer-reviewed, quantitative research findings appear to be [false as well](https://blog.communitydata.cc/a-proposal-to-mitigate-false-discovery-in-cscw-research/).
 
