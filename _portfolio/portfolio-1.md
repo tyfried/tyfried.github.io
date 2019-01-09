@@ -10,6 +10,14 @@ permalink: /portfolio/sunesiary
 Sunesiary adapts a wiki towards a novel model for aggregating and refining contextual information.  The goal is to provide a neutral, trusted repository of context for helping to break down and understand controversial topics.  I have developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school.  A proof-of-concept is available at [www.sunesiary.org](https://www.sunesiary.org).
 
 ## Motivation
+
+### Mistakes
+
+The saying goes: *we learn from our mistakes*.  Yet modern online communities of inquiry seem to focus more on broadcasting insights, and less the mistakes, bad ideas, and outliers that directly led to them.  On the one hand, this makes sense: if your goal as a community is to accumulate knowledge as efficiently as possible, then presenting tangents will necessarily distract the audience away from your message.  But if your goal is to accumulate **understanding**, then these missteps require a mechanism for greater visibility.
+
+
+### Discourse
+
 The state of public discourse is unhealthy at best.  Some examples:
 * Journalism is under siege, both [figuratively](https://issues.org/journalism-under-attack/) and [literally](https://www.nytimes.com/2018/10/11/world/americas/journalists-killed.html).
 * A [recent analysis](https://www.nature.com/articles/d41586-018-02934-x) of how true and false news spreads on Twitter found that not only did falsehoods spread more widely and at a faster rate than the truth, but that it was humans, not robots, who were more likely to spread it.
@@ -32,4 +40,4 @@ These three categories reinforce each other: writings argue towards particular s
 
 ## Sunesiary
 
-[Sunesiary](https://www.sunesiary.org) is a project that take this model and applies to it principles of [peer production](https://en.wikipedia.org/wiki/Peer_production) in order to understand controversial topics.  
+[Sunesiary](https://www.sunesiary.org) integrates these insights into a project that allows a dedicated group of contributors to accumulate understanding concerning topics of interest.  If you are interested in learning more, please shoot me an email at [sunesiary@gmail.com](mailto:sunesiary@gmail.com).
