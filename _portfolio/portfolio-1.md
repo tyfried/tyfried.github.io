@@ -13,7 +13,7 @@ Sunesiary adapts a wiki towards a novel model for aggregating and refining conte
 
 ### Mistakes
 
-The saying goes: *we learn from our mistakes*.  Yet modern online communities of inquiry seem to focus more on broadcasting insights, and less the mistakes, bad ideas, and outliers that directly led to them.  On the one hand, this makes sense: if your goal as a community is to accumulate knowledge as efficiently as possible, then presenting tangents will necessarily distract the audience away from your message.  But if your goal is to accumulate **understanding**, then these missteps require a mechanism for greater visibility.
+The saying goes: *we learn from our mistakes*.  Yet online knowledge communities seem to focus more on broadcasting conclusions, and less the mistakes, disputes, and bad ideas that directly led to them.  This makes sense: if your goal as a community is to accumulate knowledge as efficiently as possible, then presenting errant thoughts will necessarily distract the audience away from your message.  But if your goal is to accumulate **understanding**, then these missteps require a mechanism for greater visibility.
 
 
 ### Discourse
