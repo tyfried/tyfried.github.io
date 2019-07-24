@@ -7,7 +7,7 @@ permalink: /portfolio/sunesiary
 
 <img src='/images/sunesiary.png'><br/>
 
-Sunesiary adapts a wiki towards a novel model for aggregating and refining contextual information.  The goal is to provide a neutral, trusted repository of context for helping to break down and understand controversial topics.  I have developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school.  A proof-of-concept is available at [www.sunesiary.org](https://www.sunesiary.org).
+Sunesiary adapts a wiki towards a novel model for aggregating and refining contextual information.  The goal is to provide a neutral, trusted repository of context for helping to break down and understand controversial topics.  I have developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school.
 
 ## Motivation
 
@@ -37,7 +37,3 @@ I believe that all contextual information can roughly be categorized as
 * **questions**, the unknowns arising when two or more of these statements directly contradict.
 
 These three categories reinforce each other: writings argue towards particular statements, contradicting statements suggest a particular question, and unanswered questions inspire new writings.  Together, they form a cycle (see above) which captures how complex ideas evolve within communities of inquiry.
-
-## Sunesiary
-
-[Sunesiary](https://www.sunesiary.org) integrates these insights into a project that allows a dedicated group of contributors to accumulate understanding concerning topics of interest.  If you are interested in learning more, please shoot me an email at [sunesiary@gmail.com](mailto:sunesiary@gmail.com).
