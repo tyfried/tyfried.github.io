@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: tylerifriedman [at] gmail.com
+Email: tyler [at] idealogs.org

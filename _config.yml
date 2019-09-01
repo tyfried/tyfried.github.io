@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tyler Friedman"
   avatar           : "profile.jpeg"
-  bio              : "Web developer, math teacher, entrepreneur, prospective PhD student<br/><br/> \"Learning does not make one learned: there are those who have knowledge and those who have understanding. The first requires memory, the second philosophy.\"<br/>-Abbé Faria, <em>The Count of Monte Cristo</em>"
+  bio              : "Web developer, math teacher, entrepreneur<br/><br/> \"Learning does not make one learned: there are those who have knowledge and those who have understanding. The first requires memory, the second philosophy.\"<br/>-Abbé Faria, <em>The Count of Monte Cristo</em>"
   location         : "Flagstaff, AZ"
   employer         :
   googlescholar    :
@@ -106,7 +106,7 @@ author:
   soundcloud       :
   stackoverflow    : "9343207/ender"
   steam            :
-  sunesiary        : sunesiary.org
+  idealogs        : idealogs.org
   tumblr           :
   twitter          :
   vine             :
