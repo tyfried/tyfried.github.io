@@ -20,17 +20,17 @@ permalink: /portfolio/idealogs
 
 Idealogs is only possible due to some incredible open source projects.
 
-* Framework: Django.
-* Caching: memcached, pylibmc
-* Database: PostgreSQL
-* Task management: Celery, rabbitmq
-* Server: nginx + gunicorn
-* Markdown: Pandoc, with help from Pandoc-Sidenote
-* Typography: Tufte CSS
-* HTML post-processing: Beautiful Soup, Bleach
-* Diffs, Patching: Diff-Match-Patch
-* Search: Elasticsearch
-* Metadata: Zotero
+* Framework: [Django](https://www.djangoproject.com).
+* Caching: [memcached](https://memcached.org), [pylibmc](http://sendapatch.se/projects/pylibmc/)
+* Database: [PostgreSQL](https://www.postgresql.org)
+* Task management: [Celery](http://www.celeryproject.org), [rabbitmq](https://www.rabbitmq.com)
+* Server: [nginx](https://www.nginx.com) + [gunicorn](https://gunicorn.org)
+* Markdown: [Pandoc](https://www.pandoc.org), with help from [pandoc-sidenote](https://github.com/jez/pandoc-sidenote)
+* Typography: [Tufte CSS](https://github.com/edwardtufte/tufte-css)
+* HTML post-processing: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [Bleach](https://github.com/mozilla/bleach)
+* Diffs, Patching: [Diff Match Patch](https://github.com/google/diff-match-patch)
+* Search: [Elasticsearch](https://github.com/elastic/elasticsearch)
+* Metadata: [Zotero](https://github.com/zotero/translation-server)
 
 <!-- ## Motivation
 
