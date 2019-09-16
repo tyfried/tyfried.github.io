@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitae]](https://tyfried.github.io/files/cv.pdf)
-[[Resume]](https://tyfried.github.io/files/resume.pdf)
+[[Curriculum Vitae]](https://tyfried.github.io/files/cv.pdf) (long)
+
+[[Resume]](https://tyfried.github.io/files/resume.pdf) (short)
