@@ -7,7 +7,7 @@ permalink: /portfolio/idealogs
 
 <img src='/images/sunesis.png'><br/>
 
-[Idealogs](https://github.com/tyfried/idealogs) is a crowdsourcing project for [understanding](https://www.idealogs.org/@0x2) controversial topics.  The goal is to provide a neutral, trusted repository of contextual information that improves the quality of our discourse.  I wrote a more in-depth introduction [here](https://www.idealogs.org/@0x0). I have also developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school.
+[Idealogs](https://idealogs.org) is a crowdsourcing project for [understanding](https://www.idealogs.org/@0x2) controversial topics.  The goal is to provide a neutral, trusted repository of contextual information that improves the quality of our discourse.  I wrote a more in-depth introduction [here](https://www.idealogs.org/@0x0). I have also developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school.
 
 ## Motivations
 
