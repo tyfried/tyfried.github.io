@@ -9,7 +9,7 @@ permalink: /portfolio/idealogs
 
 [Idealogs](https://www.idealogs.org) is a crowdsourcing [project](https://www.idealogs.org/@0x0) for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects. Its main contributions are (1) a new [model](https://www.idealogs.org/@0x2) of understanding and (2) a [new](https://www.idealogs.org/@0x1) [kind](https://www.idealogs.org/@0xB) of wiki that implements it.  The end result is a context-driven platform for collaboratively cataloging and summarizing discussion of complex topics.
 
-I wrote a basic introduction . I also previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
+I previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
 
 ## Motivations
 
