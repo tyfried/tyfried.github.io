@@ -13,9 +13,7 @@ permalink: /portfolio/idealogs
 2. a [wiki engine](https://www.idealogs.org/@0x1) that makes it functional; and
 3. a [linking policy](https://www.idealogs.org/@0xB) that makes it scalable.
 
-The result is a context-driven platform for collaboratively cataloging and summarizing discussions of complex topics.
-
-I previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
+The result is a context-driven platform for collaboratively cataloging and summarizing discussions of complex topics.  I previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
 
 ## Motivations
 
