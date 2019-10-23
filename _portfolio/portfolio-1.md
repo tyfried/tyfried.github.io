@@ -7,13 +7,15 @@ permalink: /portfolio/idealogs
 
 <img src='/images/sunesis.png'><br/>
 
-[Idealogs](https://www.idealogs.org) is a crowdsourcing project for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects.  The goal is to provide a neutral, trusted repository of [contextual information](https://www.idealogs.org/@0x2) that improves the quality of our discourse.  I wrote a basic introduction [here](https://www.idealogs.org/@0x0). I also previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
+[Idealogs](https://www.idealogs.org) is a crowdsourcing [project](https://www.idealogs.org/@0x0) for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects. Its main contributions are (1) a new [model](https://www.idealogs.org/@0x2) of understanding and (2) a [new](https://www.idealogs.org/@0x1) [kind](https://www.idealogs.org/@0xB) of wiki that implements it.  The end result is a context-driven platform for collaboratively cataloging and summarizing discussion of complex topics.
+
+I wrote a basic introduction . I also previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
 
 ## Motivations
 
-* **Context.** There is a [fundamental lack of context](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death) in electronic media. There is desperate need for information models rooted in context, not clickability.
-* **Public affairs journalism.** Journalism is under siege, both [figuratively](https://issues.org/journalism-under-attack/) and [literally](https://www.nytimes.com/2018/10/11/world/americas/journalists-killed.html).  Crowdsourcing is a unique mechanism for incentivizing original, fact-based reporting while discouraging derivative, emotionally-driven clickbait.
-* **Truth and discourse.** A [recent analysis](https://www.nature.com/articles/d41586-018-02934-x) of how true and false news spreads on Twitter found that not only did falsehoods spread more widely and at a faster rate than the truth, but that it was humans, not robots, who were more likely to spread it; a nontrivial percentage of peer-reviewed, quantitative research findings appear to be [false as well](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124). Literature reviews are a powerful framework for making sense of complex discourse, from its least to its most structured forms.
+* **Context:** There is a [fundamental lack of context](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death) in electronic media. There is desperate need for information models rooted in context, not clickability.
+* **Public affairs journalism:** Journalism is under siege, both [figuratively](https://issues.org/journalism-under-attack/) and [literally](https://www.nytimes.com/2018/10/11/world/americas/journalists-killed.html).  Crowdsourcing is a unique mechanism for incentivizing original, fact-based reporting while discouraging derivative, emotionally-driven clickbait.
+* **Truth and discourse:** A [recent analysis](https://www.nature.com/articles/d41586-018-02934-x) of how true and false news spreads on Twitter found that not only did falsehoods spread more widely and at a faster rate than the truth, but that it was humans, not robots, who were more likely to spread it; a nontrivial percentage of peer-reviewed, quantitative research findings appear to be [false as well](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124). Literature reviews are a powerful framework for making sense of complex discourse, from its least to its most structured forms.
 
 ## Technology Stack
 
