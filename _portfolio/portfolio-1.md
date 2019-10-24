@@ -7,13 +7,13 @@ permalink: /portfolio/idealogs
 
 <img src='/images/sunesis.png'><br/>
 
-[Idealogs](https://www.idealogs.org) is a crowdsourcing [project](https://www.idealogs.org/@0x0) for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects. Its main contributions are
+[Idealogs](https://www.idealogs.org) is a crowdsourcing [project](https://www.idealogs.org/@0x0) for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects. Its main innovations are
 
-1. a [model](https://www.idealogs.org/@0x2) that describes the fundamental relationship between understanding and context;
-2. a [wiki engine](https://www.idealogs.org/@0x1) that implements the model; and
+1. a [model](https://www.idealogs.org/@0x2) that explains the fundamental relationship between understanding and context;
+2. a [wiki engine](https://www.idealogs.org/@0x1) that implements that model; and
 3. a [linking policy](https://www.idealogs.org/@0xB) that makes it scalable.
 
-The result is a context-driven platform for collaboratively cataloging and summarizing discussions of complex topics.  I previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
+The result is a context-driven platform for collaboratively summarizing discussions of complex topics.  I previously developed a [proposal](http://tyfried.github.io/files/discourse.pdf) for future study of this work in graduate school; an updated version will be published here in December 2019.
 
 ## Motivations
 
