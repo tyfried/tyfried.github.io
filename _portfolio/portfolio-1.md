@@ -7,7 +7,7 @@ permalink: /portfolio/idealogs
 
 <img src='/images/sunesis.png'><br/>
 
-[Idealogs](https://www.idealogs.org) is a crowdsourcing [project](https://www.idealogs.org/@0x0) for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects. Its main innovations are
+[Idealogs](https://www.idealogs.org) is a crowdsourcing [project](https://www.idealogs.org/@0x0) for creating [literature reviews](https://www.idealogs.org/@Enderx0) on controversial subjects. It integrates features of wikis, blogs, and digital object identification systems into one simple, concrete platform.  Its main innovations are
 
 1. a [model](https://www.idealogs.org/@0x2) that explains the fundamental relationship between understanding and context;
 2. a [wiki engine](https://www.idealogs.org/@0x1) that implements that model; and
